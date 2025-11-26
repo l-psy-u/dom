@@ -10,3 +10,30 @@
 .green{
     background-color: green;
 }
+.fru-card{
+    border :6px solid rgb(72, 255, 0);
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: 61px 67px 15px -3px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+}
+
+.swich{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: none;
+    background-color:darkseagreen ;
+     box-shadow: 30px 30px 15px 10px rgba(0,0,0,0.1);
+     display: grid;
+     place-items:center;
+     font-size: 30px;
+
+}
+.on{
+    background-color: chartreuse;
+}
+.pippo{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
